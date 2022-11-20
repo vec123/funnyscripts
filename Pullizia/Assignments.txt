@@ -1,0 +1,66 @@
+Pietro and Antonino are assigned to Cucuina + Salloto (Strada) 
+Victor and Alio are assigned to Cucuina + Salloto (No-Strada) 
+Ire and Marti are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Giada and Agnese are assigned to Spazza + Lavatrice 
+Zack and Boti are assigned to Recupera 
+Edo and Marco are assigned to Liberta 
+Alio and Marti are assigned to Cucuina + Salloto (Strada) 
+Zack and Ire are assigned to Cucuina + Salloto (No-Strada) 
+Pietro and Antonino are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Victor and Giada are assigned to Spazza + Lavatrice 
+Edo and Boti are assigned to Recupera 
+Agnese and Marco are assigned to Liberta 
+Antonino and Marco are assigned to Cucuina + Salloto (Strada) 
+Giada and Marti are assigned to Cucuina + Salloto (No-Strada) 
+Zack and Edo are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Victor and Boti are assigned to Spazza + Lavatrice 
+Pietro and Ire are assigned to Recupera 
+Agnese and Alio are assigned to Liberta 
+Boti and Alio are assigned to Cucuina + Salloto (Strada) 
+Antonino and Victor are assigned to Cucuina + Salloto (No-Strada) 
+Pietro and Agnese are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Marco and Giada are assigned to Spazza + Lavatrice 
+Marti and Zack are assigned to Recupera 
+Edo and Ire are assigned to Liberta 
+Marti and Victor are assigned to Cucuina + Salloto (Strada) 
+Zack and Edo are assigned to Cucuina + Salloto (No-Strada) 
+Ire and Agnese are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Alio and Marco are assigned to Spazza + Lavatrice 
+Pietro and Antonino are assigned to Recupera 
+Boti and Giada are assigned to Liberta 
+Antonino and Boti are assigned to Cucuina + Salloto (Strada) 
+Giada and Victor are assigned to Cucuina + Salloto (No-Strada) 
+Edo and Marco are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Alio and Zack are assigned to Spazza + Lavatrice 
+Pietro and Ire are assigned to Recupera 
+Marti and Agnese are assigned to Liberta 
+Marco and Alio are assigned to Cucuina + Salloto (Strada) 
+Pietro and Zack are assigned to Cucuina + Salloto (No-Strada) 
+Agnese and Antonino are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Giada and Edo are assigned to Spazza + Lavatrice 
+Ire and Boti are assigned to Recupera 
+Marti and Victor are assigned to Liberta 
+Zack and Victor are assigned to Cucuina + Salloto (Strada) 
+Giada and Boti are assigned to Cucuina + Salloto (No-Strada) 
+Edo and Marco are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Ire and Agnese are assigned to Spazza + Lavatrice 
+Marti and Antonino are assigned to Recupera 
+Pietro and Alio are assigned to Liberta 
+Boti and Zack are assigned to Cucuina + Salloto (Strada) 
+Pietro and Ire are assigned to Cucuina + Salloto (No-Strada) 
+Marco and Antonino are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Alio and Edo are assigned to Spazza + Lavatrice 
+Marti and Victor are assigned to Recupera 
+Agnese and Giada are assigned to Liberta 
+Marco and Edo are assigned to Cucuina + Salloto (Strada) 
+Marti and Victor are assigned to Cucuina + Salloto (No-Strada) 
+Boti and Antonino are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Pietro and Zack are assigned to Spazza + Lavatrice 
+Giada and Agnese are assigned to Recupera 
+Ire and Alio are assigned to Liberta 
+Alio and Antonino are assigned to Cucuina + Salloto (Strada) 
+Pietro and Edo are assigned to Cucuina + Salloto (No-Strada) 
+Victor and Agnese are assigned to Scala + Terazzo + Salloto picollo davanti Edos camera 
+Marco and Zack are assigned to Spazza + Lavatrice 
+Ire and Marti are assigned to Recupera 
+Giada and Boti are assigned to Liberta 

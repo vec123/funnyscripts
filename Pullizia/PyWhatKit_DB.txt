@@ -1,0 +1,180 @@
+Date: 3/11/2022
+Time: 13:18
+Group ID: AB123CDEFGHijklmn
+Message: Zack and Antonino are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:19
+Group ID: AB123CDEFGHijklmn
+Message: Marti and Pietro are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:20
+Group ID: AB123CDEFGHijklmn
+Message: Ire and Victor are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:21
+Group ID: Barca SerpiS🐍🐍🐍
+Message: Pietro and Boti are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:22
+Group ID: Barca SerpiS🐍🐍🐍
+Message: Victor and Antonino are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:26
+Group ID: Barca SerpiS🐍🐍🐍
+Message: Pietro and Alio are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:26
+Group ID: Barca SerpiS🐍🐍🐍
+Message: Marti and Zack are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:27
+Group ID: Barca SerpiS🐍🐍🐍
+Message: Agnese and Antonino are assigned to Scala + Terazzo + salloto picollo davanti edos camera
+--------------------
+Date: 3/11/2022
+Time: 13:28
+Group ID: Barca Serpi
+Message: Edo and Antonino are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:29
+Group ID: Barca Serpi
+Message: Agnese and Marco are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:29
+Group ID: Barca Serpi
+Message: Boti and Giada are assigned to Scala + Terazzo + salloto picollo davanti edos camera
+--------------------
+Date: 3/11/2022
+Time: 13:30
+Group ID: Barca Serpi
+Message: Pietro and Zack are assigned to Spazza
+--------------------
+Date: 3/11/2022
+Time: 13:31
+Group ID: Vector
+Message: Ire and Pietro are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:33
+Group ID: Barca Serpi
+Message: Ire and Agnese are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:33
+Group ID: Barca Serpi
+Message: Boti and Pietro are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:43
+Group ID: Barca Serpi
+Message: Pietro and Edo are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:43
+Group ID: Barca Serpi
+Message: Victor and Zack are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:54
+Group ID: Barca Serpi
+Message: Edo and Alio are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:55
+Group ID: Barca Serpi
+Message: Agnese and Antonino are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 13:55
+Group ID: Barca Serpi
+Message: Boti and Ire are assigned to Scala + Terazzo + salloto picollo davanti edos camera
+--------------------
+Date: 3/11/2022
+Time: 13:56
+Group ID: Barca Serpi
+Message: Victor and Marti are assigned to Spazza
+--------------------
+Date: 3/11/2022
+Time: 13:57
+Group ID: Barca Serpi
+Message: Zack and Pietro are assigned to Liberta
+--------------------
+Date: 3/11/2022
+Time: 14:5
+Group ID: Barca Serpi
+Message: Ire and Edo are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 14:6
+Group ID: Barca Serpi
+Message: Alio and Pietro are assigned to Cucuina + Lavatrice (No-Strada)
+--------------------
+Date: 3/11/2022
+Time: 14:7
+Group ID: Barca Serpi
+Message: Marco and Antonino are assigned to Scala + Terazzo + salloto picollo davanti edos camera
+--------------------
+Date: 3/11/2022
+Time: 14:7
+Group ID: Barca Serpi
+Message: Giada and Zack are assigned to Spazza
+--------------------
+Date: 3/11/2022
+Time: 14:8
+Group ID: Barca Serpi
+Message: Victor and Agnese are assigned to Liberta
+--------------------
+Date: 3/11/2022
+Time: 14:36
+Group ID: Barca Serpi
+Message: Edo and Ire are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 14:40
+Group ID: Barca Serpi
+Message: Boti and Ire are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 14:46
+Group ID: Barca Serpi
+Message: Marti and Edo are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 14:51
+Group ID: Barca Serpi
+Message: Ire and Marti are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 16:57
+Group ID: Barca Serpi
+Message: Marco and Marti are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 16:59
+Group ID: Barca Serpi
+Message: 
+--------------------
+Date: 3/11/2022
+Time: 16:59
+Group ID: Barca Serpi
+Message: Edo and Giada are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 17:1
+Group ID: Barca Serpi
+Message: Zack and Marti are assigned to Cucuina + Lavatrice (Strada)
+--------------------
+Date: 3/11/2022
+Time: 17:3
+Group ID: Barca Serpi
+Message: Victor and Marco are assigned to Cucuina + Lavatrice (Strada)
+--------------------
